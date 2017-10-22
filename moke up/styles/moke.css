@@ -1,0 +1,48 @@
+html{
+	border: 10px;
+	border-color: #747704;
+}
+header{
+	height: 120px;
+
+}
+header h1{
+font-family: arial;
+}
+body{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	background-color: #808080;
+}
+.titre{
+	float: right;
+}
+
+.img{
+	width: 120px;
+	height: 120px;
+}
+
+.img1{
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+}
+
+h2{
+	color: #BCBBBB;
+}
+
+
+footer div {
+	width: 33%;
+display: inline-block;
+text-align: center;
+}
+footer h3{
+	text-align: center;
+}
+footer h2{
+	color: #BCBBBB;
+}
